@@ -1,0 +1,4 @@
+Version change => 0.1.1
+
+Correctif :
+- Message à l'ouverture du programme "WL-Librairie".
