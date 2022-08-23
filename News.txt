@@ -1,0 +1,15 @@
+Version change => 0.4.1
+
+Correctifs :
+- Le programme WL-Library.exe ne pouvait pas etre execute par Litodows a cause d'une mauvaise configuration de la commande.
+
+Programme Litodows
+Version change => 0.4.0
+
+Nouveaux :
+- Telechargement et installation des logiciels depuis le terminal comme sur Debian/RedHat/Arch.
+- Permet d'utiliser les commandes windows.
+- Connaitre les services en cours d'execution.
+- Pouvoir demarrer et arreter un service.
+- Detecte si le programme a ete execute en tant qu'administrateur.
+- Ajout du programme WL-Librairy. Ce programme permet lors de la saisie d'une commande, d'indiquer à quoi elle correspond sur les differents systemes d'exploitation.
